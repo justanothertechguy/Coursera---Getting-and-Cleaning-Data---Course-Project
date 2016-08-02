@@ -2,9 +2,9 @@
 
 This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in Coursera.
 
-The dataset being used is:[Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-1. The R script, run_analysis.R, which can be launched in RStudio by just importing the file does the following:
+1. The R script, **run_analysis.R**, which can be launched in RStudio by just importing the file does the following:
 
    a. Download the dataset if it does not already exist in the working directory
 
@@ -22,4 +22,4 @@ The dataset being used is:[Human Activity Recognition Using Smartphones](http://
 
    h. The end result is shown in the file averages_tidy.txt.
    
-2. CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data for            preparing the tidy dataset.
+2. **CodeBook.md** describes the variables, the data, and any transformations or work that was performed to clean up the data for            preparing the tidy dataset.
